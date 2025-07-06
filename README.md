@@ -29,14 +29,14 @@ This project focuses on cleaning and preparing raw data for analysis using SQL. 
 
 ## 🔧 Skills
 
-- SQL (MySQL, PostgreSQL)
-- Excel & Google Sheets
+- SQL (MySQL)
+- Excel & Google Sheets & PowerBI
 - Data Cleaning & Transformation
 - Git & GitHub
 
 ## 📫 Contact Me
 
-- LinkedIn: [Your LinkedIn](#)
+- LinkedIn: [](https://www.linkedin.com/in/mugdad-elneama-249a5a228/)
 - GitHub: [github.com/mugdadelneama](https://github.com/mugdadelneama)
 
 ---
