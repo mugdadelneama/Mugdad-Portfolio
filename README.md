@@ -36,7 +36,7 @@ This project focuses on cleaning and preparing raw data for analysis using SQL. 
 
 ## 📫 Contact Me
 
-- LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/mugdad-elneama-249a5a228/)](#)
+- LinkedIn: [[](https://www.linkedin.com/in/mugdad-elneama-249a5a228/)]
 - GitHub: [github.com/mugdadelneama](https://github.com/mugdadelneama)
 
 ---
