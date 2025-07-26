@@ -41,6 +41,7 @@ This project focused on analyzing Gross Enrollment Ratio (GER) across Indian sta
 
 This was not a training exercise — I worked on real data, solved real analytical problems, and built tools that could be used by decision-makers.
 
+
 **🔵 Priority 1: Executive Dashboard**
 Goal: Deliver an executive-level dashboard to help policymakers understand GER trends at a glance.
 
@@ -54,6 +55,8 @@ Goal: Deliver an executive-level dashboard to help policymakers understand GER t
 
 ✅ Delivered: An interactive Power BI dashboard tailored for non-technical users with dynamic visuals, filters
 
+
+
 **🟣 Priority 2: Gender Disparity Deep Dive**
 - Objective: Help stakeholders identify and address gender gaps in education.
 
@@ -66,6 +69,8 @@ Goal: Deliver an executive-level dashboard to help policymakers understand GER t
 - Created trend visualizations to track progress or regression over time
 
 ✅ Delivered: A comprehensive report with visuals and policy-focused recommendations for bridging gender gaps.
+
+
 
 **🟢 Priority 3: Regional Education Assessment**
 
