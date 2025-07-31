@@ -39,7 +39,7 @@ This project focuses on cleaning and preparing raw data for analysis using SQL. 
 **✅ Project Summary**
 This project focused on analyzing Gross Enrollment Ratio (GER) across Indian states between 2013 and 2016. I received authentic datasets through a contact working in the education sector. My task was to transform this raw, multi-year data into actionable insights that could support educational decision-making and highlight gender and regional disparities.
 
-This was not a training exercise — I worked on real data, solved real analytical problems, and built tools that could be used by decision-makers.
+This was not a training exercise I worked on real data, solved real analytical problems, and built tools that could be used by decision-makers.
 
 
 **🔵 Priority 1: Executive Dashboard**
