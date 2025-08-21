@@ -8,7 +8,7 @@ actionable insights to support smart business decisions.
 
 ## 📂 Projects  
 
-# Analyzing Global Cybersecurity Threats from 2013 - 2025   📌 [View Project Repository](https://github.com/mugdadelneama/cybersecurity_threats_analysis)
+## Analyzing Global Cybersecurity Threats from 2013 - 2025   📌 [View Project Repository](https://github.com/mugdadelneama/cybersecurity_threats_analysis)
 
 ## 🎯 Project Overview
 Comprehensive cybersecurity risk assessment analyzing global threat data to identify critical vulnerabilities affecting countries’ financial sector and develop data driven mitigation strategies.
@@ -51,7 +51,7 @@ Comprehensive cybersecurity risk assessment analyzing global threat data to iden
 This project demonstrates ability to analyze complex cybersecurity threats and attack patterns to enhance defense technologies and security tools, protecting critical financial data and reducing operational losses
 
 
-### 📊 National Enrollment & Gender Disparity Dashboard (2013–2016)  
+## 📊 National Enrollment & Gender Disparity Dashboard (2013–2016)  
 
 📌 [View Project Repository](https://github.com/mugdadelneama/gross-enrollment-ratio-analysis-project)  
 
@@ -70,7 +70,7 @@ This was not a training exercise — I worked on **real data**, solved **real an
 
 ---
 
-#### 🔵 Priority 1: Executive Dashboard  
+###🔵 Priority 1: Executive Dashboard  
 **Goal:** Deliver an executive-level dashboard to help policymakers understand GER trends at a glance.  
 
 - National enrollment trends by education level (Primary to Higher Secondary)  
@@ -83,7 +83,7 @@ An interactive Power BI dashboard tailored for non-technical users with dynamic 
 
 ---
 
-#### 🟣 Priority 2: Gender Disparity Deep Dive  
+### 🟣 Priority 2: Gender Disparity Deep Dive  
 **Objective:** Help stakeholders identify and address gender gaps in education.  
 
 - Calculated Gender Parity Index (GPI) for every state and education level  
@@ -96,7 +96,7 @@ A comprehensive report with visuals and policy-focused recommendations for bridg
 
 ---
 
-#### 🟢 Priority 3: Regional Education Assessment  
+### 🟢 Priority 3: Regional Education Assessment  
 **Objective:** Evaluate state performance by region and identify best practices.  
 
 - Grouped states into 5 regional zones (North, South, East, West, Northeast)  
