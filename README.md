@@ -70,7 +70,7 @@ This was not a training exercise — I worked on **real data**, solved **real an
 
 ---
 
-###🔵 Priority 1: Executive Dashboard  
+### 🔵 Priority 1: Executive Dashboard  
 **Goal:** Deliver an executive-level dashboard to help policymakers understand GER trends at a glance.  
 
 - National enrollment trends by education level (Primary to Higher Secondary)  
