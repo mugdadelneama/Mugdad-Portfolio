@@ -9,9 +9,10 @@
 
 ## About Me
 
-Detail-oriented **Data Analyst** with professional and project experience in data analysis, data cleaning, exploratory data analysis (EDA), and business intelligence reporting. Proficient in **Python**, **SQL**, **Excel**, and **Power BI** with a proven ability to collect, process, and analyze large datasets to deliver actionable insights that drive business decisions.
-
-Currently working as a Data Analyst Intern at **Sharjah Assets Management**, where I analyze procurement and vendor datasets to improve reporting accuracy and identify cost-saving opportunities. Previously interned at **Newcom**, where I quantified a **$62,000 revenue opportunity** through data-driven analysis.
+Data Analyst with professional experience in data analysis, cleaning, EDA, and business intelligence. Proficient in Python,
+SQL, Excel, and Power BI with proven ability to transform large datasets into actionable insights. Skilled at building
+interactive dashboards, automating workflows, and communicating complex findings to technical and non-technical
+stakeholders.
 
 ---
 
