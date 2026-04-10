@@ -1,6 +1,7 @@
 # Site Settings
 title: Mugdad Elneama
 description: Data Analyst | Python, SQL, Power BI | Transforming data into actionable insights
+logo: assets/img/photo_2026-03-29_23-19-13.jpg # Optional: Add your profile image path
 show_downloads: false
 
 # Theme Configuration
