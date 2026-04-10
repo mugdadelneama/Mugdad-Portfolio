@@ -12,7 +12,9 @@
 Data Analyst with professional experience in data analysis, cleaning, EDA, and business intelligence. Proficient in Python,
 SQL, Excel, and Power BI with proven ability to transform large datasets into actionable insights. Skilled at building
 interactive dashboards, automating workflows, and communicating complex findings to technical and non-technical
-stakeholders.
+stakeholders.Previously interned at Newcom, where I quantified a $62,000 revenue opportunity through data-driven analysis.
+
+
 
 ---
 
