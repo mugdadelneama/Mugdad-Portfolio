@@ -1,7 +1,7 @@
 # Site Settings
 title: Mugdad Elneama
-description: Data Analyst | Python, SQL, Power BI
-logo: assets/img/profile_circular.png
+description: Data Analyst | Python, SQL, Power BI | Transforming data into actionable insights
+logo: /assets/img/profile.jpg # Optional: Add your profile image path
 show_downloads: false
 
 # Theme Configuration
@@ -13,6 +13,20 @@ linkedin_username: mugdad-elneama-249a5a228
 email: megdad.2003@gmail.com
 location: Dubai, UAE
 phone: "+971 56 675 4494"
+
+# Navigation Links (optional for Minimal theme)
+navigation:
+  - title: About
+    url: "#about"
+  - title: Projects
+    url: "#projects"
+  - title: Skills
+    url: "#skills"
+  - title: Contact
+    url: "#contact"
+
+# Google Analytics (optional)
+# google_analytics: UA-XXXXXXXXX-X
 
 # Build Settings
 markdown: kramdown
