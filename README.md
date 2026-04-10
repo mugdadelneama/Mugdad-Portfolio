@@ -42,19 +42,19 @@ Designed and executed an end-to-end data analysis workflow to identify revenue g
 
 #### Project Visuals
 
-![6 Month KPIs Dashboard](assets/img/newcom_kpi_6months.png)
+![6 Month KPIs Dashboard](assets/img/kpi_6_months.png)
 *KPI dashboard showing current vs. target average deal size and deal size distribution*
 
-![Deal Stage Breakdown](assets/img/newcom_stage_breakdown.png)
+![Deal Stage Breakdown](assets/img/q1_stage_breakdown.png)
 *Analysis of deal progression across different sales stages*
 
 ![Top 10 Customers by Revenue](assets/img/newcom_top_customers.png)
 *Revenue distribution across top-performing customers*
 
-![Python Data Analysis - Q1](assets/img/newcom_code_q1.png)
+![Python Data Analysis - Q1](![Python Data Analysis - Q1](assets/img/Screenshot%202026-04-09%20231248.png))
 *Python code demonstrating data processing and analysis for Q1 insights*
 
-![Python Data Analysis - Q4](assets/img/newcom_code_q4.png)
+![Python Data Analysis - Q2](assets/img/Screenshot_2026-04-09_231308.png)
 *Customer segmentation and revenue analysis using Python (Pandas)*
 
 ---
