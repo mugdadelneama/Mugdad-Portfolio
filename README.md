@@ -48,7 +48,7 @@ Designed and executed an end-to-end data analysis workflow to identify revenue g
 ![Deal Stage Breakdown](assets/img/q1_stage_breakdown.png)
 *Analysis of deal progression across different sales stages*
 
-![Top 10 Customers by Revenue](assets/img/newcom_top_customers.png)
+![Top 10 Customers by Revenue](assets/img/q2_top_customers.png)
 *Revenue distribution across top-performing customers*
 
 ![Python Data Analysis - Q1](assets/img/Screenshot%202026-04-09%20231248.png)
