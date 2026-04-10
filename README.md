@@ -91,25 +91,25 @@ Analyzed real public spending data from the UK Department for Science, Innovatio
 
 #### Project Visuals
 
-![Project Overview](assets/img/ukgov_overview.png)
+![Python Data Analysis - Q3](assets/img/Screenshot%202026-04-09%20232121.png)
 *Project overview explaining the dataset and analysis approach*
 
-![Top 100 Largest Transactions](assets/img/ukgov_top_transactions.png)
+![Python Data Analysis - Q4](assets/img/Screenshot%202026-04-09%20232158.png)
 *Python analysis identifying the largest individual payments*
 
-![Spending by Supplier Type](assets/img/ukgov_supplier_type_code.png)
+![Python Data Analysis - Q7](assets/img/Screenshot%202026-04-09%20232216.png)
 *Code demonstrating vendor vs. grant vs. other spending categorization*
 
-![Top 10 Suppliers Analysis](assets/img/ukgov_top_suppliers_code.png)
+![Python Data Analysis - Q6](assets/img/Screenshot%202026-04-09%20232228.png)
 *Python code showing top suppliers by total spend*
 
-![Spending Distribution Pie Chart](assets/img/ukgov_pie_chart.png)
+![Python Data Analysis - Q8](assets/img/Screenshot%202026-04-09%20232300.png)
 *Visualization of spending distribution across supplier types*
 
-![Average Transaction Size](assets/img/ukgov_avg_transaction.png)
+![Python Data Analysis - Q9](assets/img/Screenshot%202026-04-09%20232308.png)
 *Bar chart comparing average transaction sizes by supplier type*
 
-![Top 10 Suppliers Visualization](assets/img/ukgov_top_suppliers_chart.png)
+![Python Data Analysis - Q10](assets/img/Screenshot%202026-04-09%20232316.png)
 *Horizontal bar chart showing top 10 suppliers by total government spend*
 
 ---
