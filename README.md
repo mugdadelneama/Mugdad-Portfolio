@@ -51,7 +51,7 @@ Designed and executed an end-to-end data analysis workflow to identify revenue g
 ![Top 10 Customers by Revenue](assets/img/newcom_top_customers.png)
 *Revenue distribution across top-performing customers*
 
-![Python Data Analysis - Q1](![Python Data Analysis - Q1](assets/img/Screenshot%202026-04-09%20231248.png))
+![Python Data Analysis - Q1](assets/img/Screenshot%202026-04-09%20231248.png)
 *Python code demonstrating data processing and analysis for Q1 insights*
 
 ![Python Data Analysis - Q2](assets/img/Screenshot_2026-04-09_231308.png)
