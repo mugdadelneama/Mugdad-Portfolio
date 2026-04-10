@@ -145,4 +145,4 @@ Feel free to reach out for collaboration opportunities or data analysis projects
 
 ---
 
-**[View My Resume (PDF)](assets/docs/Mugdad_Resume.pdf)**
+**[View Resume (PDF)](assets/docs/Mugdad_Resume.pdf)**
