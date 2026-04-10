@@ -1,136 +1,142 @@
-# 👋 Hi, I'm Mugdad Elneama  
+---
+layout: default
+---
 
-I'm an **Enthusiastic Data Analyst**.  
-Enthusiastic Data Analyst and Business Analyst  with bachelor degree in economics and 2+ years in app development. Strong skills in SQL and Excel, with solid Python skills. Passionate about turning data into clear,
-actionable insights to support smart business decisions.
+# About Me
+
+Detail-oriented **Data Analyst** with professional and project experience in data analysis, data cleaning, exploratory data analysis (EDA), and business intelligence reporting. Proficient in **Python**, **SQL**, **Excel**, and **Power BI** with a proven ability to collect, process, and analyze large datasets to deliver actionable insights that drive business decisions.
+
+Currently working as a Data Analyst Intern at **Sharjah Assets Management**, where I analyze procurement and vendor datasets to improve reporting accuracy and identify cost-saving opportunities. Previously interned at **Newcom**, where I quantified a **$62,000 revenue opportunity** through data-driven analysis.
 
 ---
 
-## 📂 Projects  
+## Projects
 
-## Analyzing Global Cybersecurity Threats from 2013 - 2025   📌 [View Project Repository](https://github.com/mugdadelneama/cybersecurity_threats_analysis)
+### **1. Newcom Revenue Growth Analysis – 90-Day Data-Driven Growth Plan**
 
-## 🎯 Project Overview
-Comprehensive cybersecurity risk assessment analyzing global threat data to identify critical vulnerabilities affecting countries’ financial sector and develop data driven mitigation strategies.
+**Technologies Used:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Power BI, Excel
 
-## 🛠️ Technical Skills Demonstrated
+#### Project Overview
+Designed and executed an end-to-end data analysis workflow to identify revenue growth opportunities for Newcom. This project involved data collection, cleaning, transformation, exploratory data analysis (EDA), and visualization across 6 datasets to deliver a comprehensive 90-day strategic growth plan.
 
-### Data Analysis & Visualization
-- **SQL:** Data cleaning, complex queries, vulnerability pattern analysis
-- **Excel:** Advanced pivot tables, statistical analysis, vulnerability cost modeling
-- **Power BI:** Interactive dashboards, DAX calculations, real-time threat visualization
-- **Data Processing:** Cleaned and analyzed 10,000+ cybersecurity incident records using SQL CTEs
+#### Key Achievements
+- **Identified $62,000 revenue opportunity** through customer segmentation and product performance analysis
+- Built a **KPI reporting framework** targeting 20% revenue growth and 30% increase in average deal size
+- Performed **exploratory data analysis (EDA)** to uncover revenue gaps, sales patterns, and business opportunities
+- Designed **interactive Power BI dashboards** to visualize key performance indicators including revenue performance, sales trends, and growth metrics
+- Delivered a **data-driven strategic roadmap** with supporting visualizations to executive stakeholders
 
-### Cybersecurity Threat Intelligence
-- Threat vector analysis and attack pattern identification
-- Financial impact assessment of cybersecurity incidents
-- Vulnerability exploitation trends analysis
-- Threat actor behavior and attack source mapping
+#### Technical Skills Demonstrated
+- **Data Wrangling & Cleaning:** Merged and cleaned 6 datasets using Python (Pandas) to create analysis-ready data
+- **Exploratory Data Analysis (EDA):** Statistical analysis to identify trends, patterns, and anomalies
+- **Customer Segmentation:** Applied segmentation techniques to categorize customers and identify high-value targets
+- **Product Performance Analysis:** Evaluated product portfolios to determine revenue drivers
+- **Data Visualization:** Created comprehensive dashboards in Power BI and Python (Matplotlib/Seaborn)
+- **SQL Querying:** Extracted and transformed data for analysis
+- **Business Intelligence Reporting:** Developed KPI frameworks and presented findings to senior management
 
+#### Project Visuals
 
-## 🏆 Key Achievements
+![6 Month KPIs Dashboard](assets/img/newcom_kpi_6months.png)
+*KPI dashboard showing current vs. target average deal size and deal size distribution*
 
-### Threat Analysis Results 
-- Top Security Gaps: Identified DDoS attacks as highest financial threat ($27.6M), followed by Malware ($23.9M) and Man-in-the-Middle attacks ($23.5M)
-- Geographic Threat Intelligence: Analyzed attack patterns across 10 countries, with UK showing highest financial losses ($16.5M) and China leading in attack frequency (299 incidents in 2021)
-- Vulnerability Impact Assessment: Quantified that weak passwords and unpatched software account for 60% of banking sector incidents, with average resolution times of 20+ hours
+![Deal Stage Breakdown](assets/img/newcom_stage_breakdown.png)
+*Analysis of deal progression across different sales stages*
 
-### Strategic Recommendations
-- Identified top 3 critical security gaps affecting regional finance sector
-- Provided actionable insights reducing potential cyber losses by 25%
-- Delivered executive-ready recommendations with implementation roadmap
+![Top 10 Customers by Revenue](assets/img/newcom_top_customers.png)
+*Revenue distribution across top-performing customers*
 
-## 💻 Tools & Technologies
-- ![SQL](<img width="1918" height="998" alt="Screenshot 2025-08-22 005035" src="https://github.com/user-attachments/assets/1e70694f-2933-47be-ae61-bd277e952408" />
-) Data Cleaning & Analysis
-- ![Excel](<img width="1919" height="934" alt="Screenshot 2025-08-22 005221" src="https://github.com/user-attachments/assets/961b9b52-0372-43ad-a864-c9f2a92af811" />
-) Advanced Analytics
-- ![Power BI](<img width="1009" height="543" alt="Screenshot 2025-08-18 223341" src="https://github.com/user-attachments/assets/f8c28a0c-5dee-4c7e-aee5-25b1b0de9117" />
-) Dashboard Development  
+![Python Data Analysis - Q1](assets/img/newcom_code_q1.png)
+*Python code demonstrating data processing and analysis for Q1 insights*
 
-## 📈 Business Impact
-This project demonstrates ability to analyze complex cybersecurity threats and attack patterns to enhance defense technologies and security tools, protecting critical financial data and reducing operational losses
-
-
-## 📊 National Enrollment & Gender Disparity Dashboard (2013–2016)  
-
-📌 [View Project Repository](https://github.com/mugdadelneama/gross-enrollment-ratio-analysis-project)  
-
-**Tools Used:**  
-- Advanced SQL  
-- Excel  
-- Power BI  
-
-**Project Type:** Independent Data Analysis for Policy Decision-Making  
-**Client Type:** Internal Stakeholders (Real Dataset from Education Sector Employee)  
-
-**✅ Project Summary**  
-This project focused on analyzing Gross Enrollment Ratio (GER) across Indian states between 2013 and 2016. I received authentic datasets through a contact working in the education sector. My task was to transform this raw, multi-year data into actionable insights that could support educational decision-making and highlight gender and regional disparities.  
-
-This was not a training exercise — I worked on **real data**, solved **real analytical problems**, and built tools that could be used by decision-makers.  
+![Python Data Analysis - Q4](assets/img/newcom_code_q4.png)
+*Customer segmentation and revenue analysis using Python (Pandas)*
 
 ---
 
-### 🔵 Priority 1: Executive Dashboard  
-**Goal:** Deliver an executive-level dashboard to help policymakers understand GER trends at a glance.  
+### **2. UK Government Procurement Spending Analysis**
 
-- National enrollment trends by education level (Primary to Higher Secondary)  
-- State-wise GER performance tracking across 4 years  
-- Gender-based comparison and gap detection  
-- Top and bottom states identified dynamically via Power BI filters  
+**Technologies Used:** Python (Pandas, Matplotlib, NumPy), SQL
 
-**✅ Delivered:**  
-An interactive Power BI dashboard tailored for non-technical users with dynamic visuals and filters.  
+#### Project Overview
+Analyzed real public spending data from the UK Department for Science, Innovation and Technology (DSIT) covering monthly transactions over £25,000 from 2024 to 2025. This project provided transparent insights into how taxpayer money is allocated across suppliers, expense categories, and transaction types.
 
----
+#### Key Achievements
+- **Collected and merged 18 monthly CSV files** into a unified, analysis-ready dataset
+- Performed **comprehensive data cleaning and wrangling** to handle inconsistent date formats, currency symbols, missing values, and duplicate records
+- Conducted **statistical analysis and trend analysis** to identify top suppliers, spending categories, and year-over-year budget changes
+- Built **data visualizations in Matplotlib** to communicate spending patterns and financial insights to stakeholders
+- Applied **data validation techniques** to ensure completeness and accuracy of all findings
 
-### 🟣 Priority 2: Gender Disparity Deep Dive  
-**Objective:** Help stakeholders identify and address gender gaps in education.  
+#### Technical Skills Demonstrated
+- **Data Collection & Integration:** Combined 18 monthly datasets spanning two years
+- **Data Cleaning:** Systematic handling of messy data including inconsistent formats and duplicates
+- **Exploratory Data Analysis (EDA):** Asked and answered key business questions through data
+- **Statistical Analysis:** Identified spending trends, top suppliers, and transaction patterns
+- **Data Visualization:** Created clear, informative charts using Matplotlib
+- **SQL Querying:** Data extraction and transformation for analysis
+- **Python Programming:** Extensive use of Pandas for data manipulation and NumPy for calculations
 
-- Calculated Gender Parity Index (GPI) for every state and education level  
-- Flagged states with >10% gender gaps in enrollment  
-- Analyzed which education stages (Primary, Secondary, etc.) were most affected  
-- Created trend visualizations to track progress or regression over time  
+#### Analysis Questions Addressed
+- Where is the money going each month?
+- Who are the biggest suppliers receiving government payments?
+- Which expense categories consume the most budget?
+- Are there unusually large transactions that need attention?
+- How did spending change between 2024 and 2025?
 
-**✅ Delivered:**  
-A comprehensive report with visuals and policy-focused recommendations for bridging gender gaps.  
+#### Project Visuals
 
----
+![Project Overview](assets/img/ukgov_overview.png)
+*Project overview explaining the dataset and analysis approach*
 
-### 🟢 Priority 3: Regional Education Assessment  
-**Objective:** Evaluate state performance by region and identify best practices.  
+![Top 100 Largest Transactions](assets/img/ukgov_top_transactions.png)
+*Python analysis identifying the largest individual payments*
 
-- Grouped states into 5 regional zones (North, South, East, West, Northeast)  
-- Compared GER growth and consistency across regions  
-- Highlighted high-performing states with replicable strategies  
-- Flagged underperformers for further support and intervention  
+![Spending by Supplier Type](assets/img/ukgov_supplier_type_code.png)
+*Code demonstrating vendor vs. grant vs. other spending categorization*
 
-**✅ Delivered:**  
-A region-based analysis highlighting strengths, weaknesses, and actionable takeaways.  
+![Top 10 Suppliers Analysis](assets/img/ukgov_top_suppliers_code.png)
+*Python code showing top suppliers by total spend*
 
----
+![Spending Distribution Pie Chart](assets/img/ukgov_pie_chart.png)
+*Visualization of spending distribution across supplier types*
 
-### ⚙️ Technical Workflow  
-- Cleaned and aggregated multi-year data using **Advanced SQL**  
-- Performed validation, pivoting, and exploratory work in **Excel**  
-- Developed a **dynamic Power BI dashboard** with drill-throughs and slicers  
-- Focused on **storytelling with data** to support real-world education policy questions  
+![Average Transaction Size](assets/img/ukgov_avg_transaction.png)
+*Bar chart comparing average transaction sizes by supplier type*
 
----
-
-## 🔧 Skills  
-- SQL (MySQL)  
-- Excel & Google Sheets  
-- Power BI  
-- Data Cleaning & Transformation  
-- Git & GitHub  
-
----
-
-## 📫 Contact Me  
-- **LinkedIn:** [Mugdad Elneama](#)  
-- **GitHub:** [github.com/mugdadelneama](https://github.com/mugdadelneama)  
+![Top 10 Suppliers Visualization](assets/img/ukgov_top_suppliers_chart.png)
+*Horizontal bar chart showing top 10 suppliers by total government spend*
 
 ---
 
-🚀 *Always learning. Always improving.*  
+## Technical Skills
+
+**Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
+
+**Data Analysis:** Exploratory Data Analysis (EDA), Statistical Analysis, Data Cleaning, Data Wrangling, Data Validation
+
+**Data Visualization:** Power BI, Matplotlib, Seaborn, Excel Charts
+
+**Business Intelligence:** Dashboard Development, KPI Reporting, Performance Metrics, Trend Analysis
+
+**Spreadsheet Tools:** Microsoft Excel (Pivot Tables, VLOOKUP, XLOOKUP, Conditional Formatting, Reporting Automation)
+
+**Databases:** MySQL, SQL Querying, Database Management, Firebase
+
+**ETL & Data Processing:** Data Extraction, Data Transformation, Data Loading, Data Pipeline Development
+
+**Other Tools:** Git, GitHub, REST APIs, Microsoft Office Suite
+
+---
+
+## Contact
+
+📧 **Email:** [megdad.2003@gmail.com](mailto:megdad.2003@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/mugdad-elneama-249a5a228](https://linkedin.com/in/mugdad-elneama-249a5a228)  
+📱 **Phone:** +971 56 675 4494  
+📍 **Location:** Dubai, UAE
+
+---
+
+### Download Resume
+[Download PDF Resume](assets/files/Mugdad_Resume.pdf)
