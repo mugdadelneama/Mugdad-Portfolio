@@ -1,8 +1,13 @@
----
-layout: default
+# Mugdad Elneama - Data Analyst Portfolio
+
+📧 **Email:** megdad.2003@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/mugdad-elneama-249a5a228](https://linkedin.com/in/mugdad-elneama-249a5a228)  
+📱 **Phone:** +971 56 675 4494  
+📍 **Location:** Dubai, UAE
+
 ---
 
-# About Me
+## About Me
 
 Detail-oriented **Data Analyst** with professional and project experience in data analysis, data cleaning, exploratory data analysis (EDA), and business intelligence reporting. Proficient in **Python**, **SQL**, **Excel**, and **Power BI** with a proven ability to collect, process, and analyze large datasets to deliver actionable insights that drive business decisions.
 
@@ -10,7 +15,7 @@ Currently working as a Data Analyst Intern at **Sharjah Assets Management**, whe
 
 ---
 
-## Projects
+## Featured Projects
 
 ### **1. Newcom Revenue Growth Analysis – 90-Day Data-Driven Growth Plan**
 
@@ -131,6 +136,8 @@ Analyzed real public spending data from the UK Department for Science, Innovatio
 
 ## Contact
 
+Feel free to reach out for collaboration opportunities or data analysis projects!
+
 📧 **Email:** [megdad.2003@gmail.com](mailto:megdad.2003@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/mugdad-elneama-249a5a228](https://linkedin.com/in/mugdad-elneama-249a5a228)  
 📱 **Phone:** +971 56 675 4494  
@@ -138,5 +145,4 @@ Analyzed real public spending data from the UK Department for Science, Innovatio
 
 ---
 
-### Download Resume
-[Download PDF Resume](assets/files/Mugdad_Resume.pdf)
+**[View My Resume (PDF)](assets/files/Mugdad_Resume.pdf)**
