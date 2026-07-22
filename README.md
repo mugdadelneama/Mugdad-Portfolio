@@ -14,106 +14,167 @@ SQL, Excel, and Power BI with proven ability to transform large datasets into ac
 interactive dashboards, automating workflows, and communicating complex findings to technical and non-technical
 stakeholders.Previously interned at Newcom, where I quantified a $62,000 revenue opportunity through data-driven analysis.
 
-
-
 ---
 
 ## Featured Projects
 
-### **1. Newcom Revenue Growth Analysis – 90-Day Data-Driven Growth Plan**
-
-**Technologies Used:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Power BI, Excel
-
-#### Project Overview
-Designed and executed an end-to-end data analysis workflow to identify revenue growth opportunities for Newcom. This project involved data collection, cleaning, transformation, exploratory data analysis (EDA), and visualization across 6 datasets to deliver a comprehensive 90-day strategic growth plan.
-
-#### Key Achievements
-- **Identified $62,000 revenue opportunity** through customer segmentation and product performance analysis
-- Built a **KPI reporting framework** targeting 20% revenue growth and 30% increase in average deal size
-- Performed **exploratory data analysis (EDA)** to uncover revenue gaps, sales patterns, and business opportunities
-- Designed **interactive Power BI dashboards** to visualize key performance indicators including revenue performance, sales trends, and growth metrics
-- Delivered a **data-driven strategic roadmap** with supporting visualizations to executive stakeholders
-
-#### Technical Skills Demonstrated
-- **Data Wrangling & Cleaning:** Merged and cleaned 6 datasets using Python (Pandas) to create analysis-ready data
-- **Exploratory Data Analysis (EDA):** Statistical analysis to identify trends, patterns, and anomalies
-- **Customer Segmentation:** Applied segmentation techniques to categorize customers and identify high-value targets
-- **Product Performance Analysis:** Evaluated product portfolios to determine revenue drivers
-- **Data Visualization:** Created comprehensive dashboards in Power BI and Python (Matplotlib/Seaborn)
-- **SQL Querying:** Extracted and transformed data for analysis
-- **Business Intelligence Reporting:** Developed KPI frameworks and presented findings to senior management
-
-#### Project Visuals
-
-![6 Month KPIs Dashboard](assets/img/kpi_6_months.png)
-*KPI dashboard showing current vs. target average deal size and deal size distribution*
-
-![Deal Stage Breakdown](assets/img/q1_stage_breakdown.png)
-*Analysis of deal progression across different sales stages*
-
-![Top 10 Customers by Revenue](assets/img/q2_top_customers.png)
-*Revenue distribution across top-performing customers*
-
-![Python Data Analysis - Q1](assets/img/Screenshot%202026-04-09%20231248.png)
-*Python code demonstrating data processing and analysis for Q1 insights*
-
-![Python Data Analysis - Q2](assets/img/Screenshot%202026-04-09%20231308.png)
-*Customer segmentation and revenue analysis using Python (Pandas)*
+### **1. Newcom B2B Sales Analysis**
+### Finding hidden revenue risks in a UAE technology distributor's data
 
 ---
 
-### **2. UK Government Procurement Spending Analysis**
+## Project Overview
 
-**Technologies Used:** Python (Pandas, Matplotlib, NumPy), SQL
+Newcom is a UAE-based B2B technology distributor selling collaboration hardware — room kits, headsets, docking stations, and display equipment — to corporate clients across Dubai and the Northern Emirates.
 
-#### Project Overview
-Analyzed real public spending data from the UK Department for Science, Innovation and Technology (DSIT) covering monthly transactions over £25,000 from 2024 to 2025. This project provided transparent insights into how taxpayer money is allocated across suppliers, expense categories, and transaction types.
+This project applies Python-based data analysis to six interconnected datasets covering customers, sales opportunities, completed orders, products, inventory, and sales activities. The goal is not to describe the data — it is to find real business problems, quantify them, and tell the business exactly what to do about them.
 
-#### Key Achievements
-- **Collected and merged 18 monthly CSV files** into a unified, analysis-ready dataset
-- Performed **comprehensive data cleaning and wrangling** to handle inconsistent date formats, currency symbols, missing values, and duplicate records
-- Conducted **statistical analysis and trend analysis** to identify top suppliers, spending categories, and year-over-year budget changes
-- Built **data visualizations in Matplotlib** to communicate spending patterns and financial insights to stakeholders
-- Applied **data validation techniques** to ensure completeness and accuracy of all findings
+The notebook reads like a business report. Every chart is followed by a plain-English finding and one specific recommendation. No data science jargon. No exploratory filler.
 
-#### Technical Skills Demonstrated
-- **Data Collection & Integration:** Combined 18 monthly datasets spanning two years
-- **Data Cleaning:** Systematic handling of messy data including inconsistent formats and duplicates
-- **Exploratory Data Analysis (EDA):** Asked and answered key business questions through data
-- **Statistical Analysis:** Identified spending trends, top suppliers, and transaction patterns
-- **Data Visualization:** Created clear, informative charts using Matplotlib
-- **SQL Querying:** Data extraction and transformation for analysis
-- **Python Programming:** Extensive use of Pandas for data manipulation and NumPy for calculations
+---
 
-#### Analysis Questions Addressed
-- Where is the money going each month?
-- Who are the biggest suppliers receiving government payments?
-- Which expense categories consume the most budget?
-- Are there unusually large transactions that need attention?
-- How did spending change between 2024 and 2025?
+## Business Problems Solved
 
-#### Project Visuals
+### Problem 1 — Revenue Concentration Risk
+Three customers generate 61% of total revenue (AED 5.97M of AED 9.79M). Three SKUs generate 82.3% of all revenue. If a single account reduces spend or a key product faces a supply issue, the business takes a catastrophic hit. The analysis identifies every single point of failure and proposes a diversification target.
 
-![Python Data Analysis - Q3](assets/img/Screenshot%202026-04-09%20232121.png)
-*Project overview explaining the dataset and analysis approach*
+### Problem 2 — Pipeline Conversion Breakdown
+180 deals in the pipeline. Only 21 reached Closed Won — an 11.7% end-to-end win rate. The biggest drop-off happens at the final stage (Negotiation → Closed Won, a 22% fall). "No decision" accounts for 36% of all lost deals. AED 4.25 million is frozen in deals that have passed their expected close date. The analysis pinpoints where deals are dying and why.
 
-![Python Data Analysis - Q4](assets/img/Screenshot%202026-04-09%20232158.png)
-*Python analysis identifying the largest individual payments*
+### Problem 3 — Delivery Performance and Customer Trust
+55% of all orders were delivered late. The late rate climbed from 48.6% in June to 69.2% in September — getting worse every month. Three SKUs are both chronically late and below safety stock level, including two with zero units on hand still accepting orders. The analysis flags every operational risk and cross-references inventory data to identify the root cause.
 
-![Python Data Analysis - Q7](assets/img/Screenshot%202026-04-09%20232216.png)
-*Code demonstrating vendor vs. grant vs. other spending categorization*
+### Problem 4 — Sales Rep Performance and Activity Effectiveness
+One rep (S. Ahmed) has a 100% win rate. Another (R. Singh) has zero closed deals despite 26 logged activities. More activity does not equal more revenue — the analysis proves it. It identifies which rep to coach, which to replicate, and which activity type produces the highest qualified engagement rate.
 
-![Python Data Analysis - Q6](assets/img/Screenshot%202026-04-09%20232228.png)
-*Python code showing top suppliers by total spend*
+---
 
-![Python Data Analysis - Q8](assets/img/Screenshot%202026-04-09%20232300.png)
-*Visualization of spending distribution across supplier types*
+## Dataset
 
-![Python Data Analysis - Q9](assets/img/Screenshot%202026-04-09%20232308.png)
-*Bar chart comparing average transaction sizes by supplier type*
+Real B2B sales data from a UAE technology distributor, anonymised for portfolio use.
 
-![Python Data Analysis - Q10](assets/img/Screenshot%202026-04-09%20232316.png)
-*Horizontal bar chart showing top 10 suppliers by total government spend*
+| Sheet | Rows | Description |
+|---|---|---|
+| `customers` | 60 | Client accounts with segment, vertical, region, and assigned sales owner |
+| `opportunities` | 180 | Pipeline deals with stage, value, product, expected close date, and lost reason |
+| `orders` | 120 | Completed orders with SKU, quantity, pricing, promised and actual delivery dates |
+| `products` | 16 | SKU catalogue with category, brand, margin band, and list price |
+| `inventory` | 16 | Stock levels, on-order quantity, safety stock, and lead times |
+| `activities` | 180 | Sales activities (calls, webinars, demos, trial rooms) with owner and outcome |
+
+---
+
+## Methodology
+
+### Data Cleaning (6 specific fixes)
+- Date columns validated and standardised across all sheets
+- 7 missing `owner` values assigned to "Unassigned" (not dropped)
+- Missing `lost_reason` values on open deals labelled "Active" to prevent skewing loss analysis
+- `revenue` column calculated: `quantity × unit_price`
+- `delay_days` column calculated: `actual_eta − promised_eta` (negative = early, positive = late)
+- Sheets merged using `customer_id` and `sku` as join keys
+- Cleaned datasets exported to `/data/processed/` as CSVs for reproducibility
+
+### Analysis Approach
+Each business problem follows the same structure:
+1. Data preparation and calculation
+2. Multi-panel chart (3 visuals per problem, matplotlib/seaborn)
+3. Plain-English finding with specific numbers
+4. One actionable recommendation
+5. Executive summary at the end with four verb-first action items
+
+---
+
+## Key Findings
+
+| # | Finding | Number |
+|---|---|---|
+| 1 | Top 3 customers as % of total revenue | **61%** |
+| 1 | Top 3 SKUs as % of total revenue | **82.3%** |
+| 2 | End-to-end pipeline win rate | **11.7%** |
+| 2 | Revenue frozen in overdue deals | **AED 4.25M** |
+| 2 | Deals lost due to "no decision" | **36%** |
+| 3 | Orders delivered late | **55%** |
+| 3 | Late delivery rate in September | **69.2%** |
+| 3 | SKUs at zero stock still accepting orders | **2** |
+| 4 | Top rep win rate (S. Ahmed) | **100%** |
+| 4 | Bottom rep closed deals (R. Singh) | **0 from 26 activities** |
+
+---
+
+## Technologies Used
+
+| Tool | Purpose |
+|---|---|
+| Python 3.11 | Core analysis language |
+| pandas | Data cleaning, transformation, and aggregation |
+| NumPy | Numerical calculations |
+| matplotlib | All chart production |
+| seaborn | Chart styling and statistical plots |
+| Jupyter Notebook | Report structure and narrative |
+| openpyxl | Reading multi-sheet Excel source file |
+
+No Power BI. All visuals are static matplotlib/seaborn figures embedded directly in the notebook — keeping the report self-contained and reproducible in any Python environment.
+
+---
+
+## Project Structure
+
+```
+newcom-sales-analysis/
+│
+├── newcom_sales_analysis.ipynb   # Main analysis notebook
+├── README.md                     # This file
+│
+├── data/
+│   ├── raw/
+│   │   └── Original_Newcom_Data.xlsx
+│   └── processed/
+│       ├── orders_clean.csv
+│       ├── opps_clean.csv
+│       ├── customers_clean.csv
+│       └── activities_clean.csv
+│
+└── assets/
+    └── screenshots/              # Dashboard screenshots for portfolio
+```
+
+---
+
+## How to Run
+
+**Requirements:** Python 3.8+, Jupyter Notebook or JupyterLab
+
+```bash
+# Clone the repo
+git clone https://github.com/YOUR_USERNAME/newcom-sales-analysis.git
+cd newcom-sales-analysis
+
+# Install dependencies
+pip install pandas numpy matplotlib seaborn openpyxl jupyterlab
+
+# Launch the notebook
+jupyter lab newcom_sales_analysis.ipynb
+```
+
+Run all cells top to bottom. The notebook reads and cleans the raw Excel file automatically and exports clean CSVs to `/data/processed/`.
+
+---
+
+## What I Would Add Next
+
+- **Churn prediction model** — flag accounts with declining order frequency using logistic regression on recency, frequency, and value (RFV) features
+- **Power BI dashboard** — connect to the cleaned CSVs to build an interactive version for non-technical stakeholders who need to filter by rep, region, or product without running Python
+- **Inventory reorder alert** — a script that flags any SKU crossing below safety stock and outputs a purchase order draft
+- **Monthly automation** — refactor the notebook into a parameterised script that re-runs the full analysis in under 60 seconds when a new data file is dropped in
+
+---
+
+## About
+
+Independent data analytics consultant based in Abu Dhabi, UAE. I help SMB founders and sales managers find the revenue risks hiding in their data — customer concentration, pipeline blockages, delivery failures, and team performance gaps.
+
+**Connect on LinkedIn:** [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
 
 ---
 
