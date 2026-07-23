@@ -44,15 +44,17 @@ The notebook reads like a business report. Every chart is followed by a plain-En
 
 ### Problem 1 — Revenue Concentration Risk
 Three customers generate 61% of total revenue (AED 5.97M of AED 9.79M). Three SKUs generate 82.3% of all revenue. If a single account reduces spend or a key product faces a supply issue, the business takes a catastrophic hit. The analysis identifies every single point of failure and proposes a diversification target.
-![alt text](https://github.com/mugdadelneama/Mugdad-Portfolio/blob/702697db2c8658af74b721b3c89ba2f5ca5c6b09/assets/img/P1_revenue_concentration.png)
+
+![Revenue Concentration](assets/img/P1_revenue_concentration.png)
 
 ### Problem 2 — Pipeline Conversion Breakdown
 180 deals in the pipeline. Only 21 reached Closed Won — an 11.7% end-to-end win rate. The biggest drop-off happens at the final stage (Negotiation → Closed Won, a 22% fall). "No decision" accounts for 36% of all lost deals. AED 4.25 million is frozen in deals that have passed their expected close date. The analysis pinpoints where deals are dying and why.
-![alt text](https://github.com/mugdadelneama/Mugdad-Portfolio/blob/702697db2c8658af74b721b3c89ba2f5ca5c6b09/assets/img/P2_pipeline_conversion.png)
+
+![Pipeline Conversion](assets/img/P2_pipeline_conversion.png)
 
 ### Problem 3 — Delivery Performance and Customer Trust
 55% of all orders were delivered late. The late rate climbed from 48.6% in June to 69.2% in September — getting worse every month. Three SKUs are both chronically late and below safety stock level, including two with zero units on hand still accepting orders. The analysis flags every operational risk and cross-references inventory data to identify the root cause.
-![alt text](https://github.com/mugdadelneama/Mugdad-Portfolio/blob/702697db2c8658af74b721b3c89ba2f5ca5c6b09/assets/img/P3_delivery_performance.png)
+![Delivery Performance](assets/img/P3_delivery_performance.png)
 
 ### Problem 4 — Sales Rep Performance and Activity Effectiveness
 One rep (S. Ahmed) has a 100% win rate. Another (R. Singh) has zero closed deals despite 26 logged activities. More activity does not equal more revenue — the analysis proves it. It identifies which rep to coach, which to replicate, and which activity type produces the highest qualified engagement rate.
