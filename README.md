@@ -9,10 +9,17 @@
 
 ## About Me
 
-Data Analyst with professional experience in data analysis, cleaning, EDA, and business intelligence. Proficient in Python,
-SQL, Excel, and Power BI with proven ability to transform large datasets into actionable insights. Skilled at building
-interactive dashboards, automating workflows, and communicating complex findings to technical and non-technical
-stakeholders.Previously interned at Newcom, where I quantified a $62,000 revenue opportunity through data-driven analysis.
+I turn messy data into decisions business owners can act on.
+
+By day, I manage patient data systems and scheduling workflows for a hospital. Accuracy isn't optional there. I maintain records for thousands of patients across departments. I run regular quality checks to catch errors before they cause problems. I track inquiry patterns to spot where service breaks down.
+
+That work taught me something most data analysts never learn on the job. Data is only useful if someone acts on it. A clean spreadsheet means nothing if it doesn't change what a manager does next week.
+
+Now I bring that same discipline to small and mid-size businesses. I build sales dashboards and churn analysis using Python, SQL, and Power BI. I show founders exactly where revenue is leaking. I show them which customers are about to walk — before it's too late.
+
+Recent project: I analyzed 12 months of UAE B2B sales data. Delivery delays jumped from 48.6% to 69.2% of orders in three months. The business hadn't caught this pattern in its own reports.
+If you run a retail, e-commerce, or field service business, this is for you. If you're making decisions on gut feel instead of your own numbers, that's exactly the gap I close.
+DM me if this sounds like your business.
 
 ---
 
