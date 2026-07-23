@@ -213,4 +213,4 @@ Feel free to reach out for collaboration opportunities or data analysis projects
 
 ---
 
-**[View Resume (PDF)](assets/docs/Mugdad_Resume.pdf)**
+<!--**[View Resume (PDF)](assets/docs/Mugdad_Resume.pdf)**-->
