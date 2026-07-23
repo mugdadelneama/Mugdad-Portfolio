@@ -3,7 +3,7 @@
 📧 **Email:** megdad.2003@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/mugdad-elneama-249a5a228](https://www.linkedin.com/in/mugdad-h-eltayeb-249a5a228/))  
 📱 **Phone:** +971 56 675 4494  
-📍 **Location:** Dubai, UAE
+📍 **Location:** Abu Dhabi, UAE
 
 ---
 
