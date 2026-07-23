@@ -56,6 +56,7 @@ Three customers generate 61% of total revenue (AED 5.97M of AED 9.79M). Three SK
 
 ### Problem 4 — Sales Rep Performance and Activity Effectiveness
 One rep (S. Ahmed) has a 100% win rate. Another (R. Singh) has zero closed deals despite 26 logged activities. More activity does not equal more revenue — the analysis proves it. It identifies which rep to coach, which to replicate, and which activity type produces the highest qualified engagement rate.
+
 ![Rep Performance](assets/img/P4_rep_performance.png)
 ---
 
