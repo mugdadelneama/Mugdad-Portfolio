@@ -54,6 +54,7 @@ Three customers generate 61% of total revenue (AED 5.97M of AED 9.79M). Three SK
 
 ### Problem 3 — Delivery Performance and Customer Trust
 55% of all orders were delivered late. The late rate climbed from 48.6% in June to 69.2% in September — getting worse every month. Three SKUs are both chronically late and below safety stock level, including two with zero units on hand still accepting orders. The analysis flags every operational risk and cross-references inventory data to identify the root cause.
+
 ![Delivery Performance](assets/img/P3_delivery_performance.png)
 
 ### Problem 4 — Sales Rep Performance and Activity Effectiveness
